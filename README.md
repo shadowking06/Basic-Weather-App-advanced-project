@@ -85,5 +85,6 @@ weather_data = response.json()
 ## 🔗 Connect with Me
 
 GitHub : [shadowking06](https://github.com/shadowking06)
+
 LinkedIn : [Ujjwal Pandey](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
 
